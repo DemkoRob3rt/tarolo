@@ -11,6 +11,7 @@ public class Main {
 
 	public Main() {
 		System.out.println("Itt van");
+		System.out.println("Ez is itt van.");
 		
 	}
 
