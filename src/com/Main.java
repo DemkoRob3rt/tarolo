@@ -10,8 +10,12 @@ package com;
 public class Main {
 
 	public Main() {
-		System.out.println("Itt van");
-		System.out.println("Ez is itt van.");
+		stringToConsole("Ezt egy külön branch");
+		
+	}
+	
+	private void stringToConsole(String consoleText){
+		System.out.println(consoleText);
 		
 	}
 
