@@ -10,7 +10,7 @@ package com;
 public class Main {
 
 	public Main() {
-		System.out.println("Itt");
+		System.out.println("Itt van");
 	}
 
 	/**
