@@ -10,7 +10,7 @@ package com;
 public class Main {
 
 	public Main() {
-		stringToConsole("Név érték párok következnek!");
+		stringToConsole("Név-érték párok következnek!");
 		stringToConsole("Szín","Piros");
 		stringToConsole("Hossz","1m");
 		stringToConsole("Súly","10kg");
